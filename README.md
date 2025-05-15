@@ -1,4 +1,4 @@
-# 📚 IITM - DS - PDSA Solutions
+# 📚 IITM - DS - JAVA Solutions
 
 Hello there!  
 **SOHAM** here. Welcome to my repository for the **IITM Java** course. This repository contains my **lecture notes**, **assignment solutions**, and other resources for DBMS, organized for easy navigation and study.
