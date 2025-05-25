@@ -1,0 +1,15 @@
+# Graded Assesment 2
+
+![Question](../.github/Week-2/JAVA-GA-2.1.png)
+![Question](../.github/Week-2/JAVA-GA-2.2.png)
+![Question](../.github/Week-2/JAVA-GA-2.3.png)
+![Question](../.github/Week-2/JAVA-GA-2.4.png)
+![Question](../.github/Week-2/JAVA-GA-2.5.png)
+![Question](../.github/Week-2/JAVA-GA-2.6.png)
+![Question](../.github/Week-2/JAVA-GA-2.7.png)
+![Question](../.github/Week-2/JAVA-GA-2.8.png)
+![Question](../.github/Week-2/JAVA-GA-2.9.png)
+![Question](../.github/Week-2/JAVA-GA-2.10.png)
+![Question](../.github/Week-2/JAVA-GA-2.11.png)
+![Question](../.github/Week-2/JAVA-GA-2.12.png)
+![Question](../.github/Week-2/JAVA-GA-2.13.png)
