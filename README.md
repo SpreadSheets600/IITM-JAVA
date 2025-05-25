@@ -35,10 +35,16 @@ Solutions to assignments are included for each corresponding week.
 ### GA
 
 - [WEEK 1](./Graded%20Assesment/W1-GA.md)
+- [WEEK 2](./Graded%20Assesment/W2-GA.md)
 
 ### GRPA
 
+- [WEEK 2](./GRPA/Week%202/Week%202.md)
+
 ### Notes
+
+- [WEEK 1](./Notes/Week%201.pdf)
+- [WEEK 2](./Notes/Week%202/)
 
 ---
 
