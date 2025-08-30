@@ -46,6 +46,14 @@ Solutions to assignments are included for each corresponding week.
 - [WEEK 1](./Notes/Week%201.pdf)
 - [WEEK 2](./Notes/Week%202/)
 
+- [Quiz 1](./Notes/Quiz%201%20Notes.pdf)
+- [Quiz 2](./Notes/Quiz%202%20Notes.pdf)
+- [Week 9](./Notes/Week%209.pdf)
+- [Week 10](./Notes/Week%2010.pdf)
+- [Week 11](./Notes/Week%2011.pdf)
+- [Week 12](./Notes/Week%2012.pdf)
+
+
 ---
 
 ## 💬 Contact
